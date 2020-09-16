@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Wenchi Zhang
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Students of Computer Science(Digital Media Technology) at Beijing Forestry University
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Beijing Forestry University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Computer Vision and image/video processing,especially Object Detection and Image Generation.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Computer Vision
+- Object Detection
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Research Intern
+    institution: Peking University
+    year: 2019.3-2019.9
+  - course: Digital Media Technology
+    institution: Beijing Forestry University
+    year: 2019.3-2021.6
+  - course: Computer Science and Technology
+    institution: Beijing Forestry University
+    year: 2017.9-2019.3
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zhang Wenchi is a Student of DMT at BJFU. His research interests include Computer Vision and image/video processing,Remote Sensing Image Interpretation,especially Object Detection and Image Generation.He works as an intern in the Wangxuan Institute of Computer Technology of Peking University,and he won a National Scholarships at 2019;
