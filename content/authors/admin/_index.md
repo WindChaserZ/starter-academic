@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Students of Computer Science(Digital Media Technology) at Beijing Forestry University
+role: Students of Computer Science at Beijing Forestry University
 
 # Organizations/Affiliations
 organizations:
