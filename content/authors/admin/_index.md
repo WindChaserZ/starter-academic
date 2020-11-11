@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Zhang Wenchi is a Student of DMT at Beijing Forestry University. His research interests include Computer Vision and image/video processing,Remote Sensing Image Interpretation,especially Object Detection and Image Generation.He works as an intern in the Wangxuan Institute of Computer Technology of Peking University,and he won a National Scholarships at 2019;
+Zhang Wenchi is a Student of DMT at Beijing Forestry University, and is an incoming CS graduate student at Renmin University of China. His research interests include Computer Vision and image/video processing,Remote Sensing Image Interpretation,especially Object Detection and Image Generation.He works as an intern in the Wangxuan Institute of Computer Technology of Peking University,and he won a National Scholarships at 2019;
